@@ -1,0 +1,139 @@
+---
+output:
+  html_document:
+    theme: readable
+    self_contained: true
+---
+
+# Datafest Germany 2016
+
+![DataFest Icon](files/Datafest_01_150304_small.jpg)
+
+## Was ist DataFest Germany? 
+
+Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team mit bis zu vier Freunden! 
+
+Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richtig gute Information! 
+
+Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
+
+Wir bringen das DataFest nach Deutschland. Unsere Partneruniversitäten in den USA haben bereits in den vergangenen Jahren Top-Erfahrungen damit gemacht: 
+
+- [Duke University](https://stat.duke.edu/datafest)
+- [Princeton University](http://orfe.princeton.edu/datafest/)
+- [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
+
+## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
+
+Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft. In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
+
+## Wer kann teilnehmen?
+
+Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an. Promotionsstudierende sind zur Teilnahme berechtigt, wenn im gleichen Team mindestens eine Person in einem Bachelor-,  Master- oder einem äquivalentem Studiengang studiert.
+
+## Wann und wo findet das DataFest statt?
+
+Freitag, 1. April, 19 Uhr (??)  bis Sonntag, 3. April, 14 Uhr (??)
+
+Ludwig-Maximilians-Universität München
+
+Hörsaal ??
+
+In begrenztem Umfang sind auf Anfrage Reisekostenzuschüsse möglich. Wende dich dafür vorab
+per Mail an ??
+
+## Muss ich die ganze Zeit da sein?
+
+Nein! Du kannst kommen und gehen wie du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
+
+## Was brauche ich, um mitzumachen?
+
+Alles, was du brauchst, ist ein Laptop und die Software, die du am liebsten nutzt. ?? _Zusätzlich stellen wir „Tableau“ zur Verfügung, eine Software mit der Großunternehmen ihre Daten analysieren._ ??
+
+Und du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen du dich als
+Team anmeldest. Ein Team besteht aus mindestens 2 und maximal 5 Personen.
+
+## Ich habe kein Team, kann ich mich trotzdem anmelden?
+
+Wir haben auf Facebook eine [DataFest-Seite](https://www.facebook.com/groups/DataFestGermany/) eingerichtet. Dort kannst du dich mit anderen Interessenten zu einem Team zusammenschließen. 
+
+## Wie kann ich mich anmelden?
+
+Du kannst dich bis ?? [hier](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform) anmelden. 
+Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 20€ pro Team überwiesen werden.
+
+[Zum Anmeldeformular](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform)
+
+Kontoverbindung zur Überweisung der Teilnahmegebühr:
+
+Kontoinhaber: ??  
+Bank: ??  
+IBAN: ??  
+BIC: ??  
+Betreff: ?? "Euer Gruppenname"
+
+__Wichtig__: Ohne die korrekte ESP und FOND-Angabe lässt sich die Zahlung nicht bearbeiten!
+
+Da die Plätze begrenzt sind, können nur die 10 Teams teilnehmen, die sich zuerst anmelden. 
+
+## Was kann ich gewinnen?
+
+Preise, Ruhm, Ehre oder ein gewichtetes Mittel davon! 
+
+Präsentiert die Ergebnisse in einer sehr kurzen Präsentation einer bunt gemischten Jury, die sich aus Experten aus verschiedenen Berufsfeldern zusammensetzt. Gewinnen kann man in den Kategorien
+
+- __Best Insight__
+- __Best Visualization__
+- __Best Use of Outside Data__
+ 
+## Was sollte ich sonst noch über DataFest wissen?
+
+Das DataFest ist Wettbewerb und interdisziplinäreres Team Event zugleich, bei dem ihr die einzigartige Möglichkeit habt, große Datenmengen zu bearbeiten und nach euren Ideen auszuwerten. Außerdem könnt ihr ganz ungezwungen mit führenden Köpfen der Statistik sowie Unternehmen in Kontakt treten.
+
+## Wo kann ich übernachten?
+
+Wenn du Isomatte und Schlafsack mitbringst, kannst du in einem großen Saal mit anderen DataFest-Teilnehmern übernachten.
+
+Ansonsten  ??JUGENDHERBERGE?? 
+
+## Wie werde ich satt?
+
+Wir sorgen für ausreichend gesunde und ungesunde Nahrungsmittel und Getränke rund um die Uhr.
+
+## Welche Ergebnisse gab es 2015?
+
+18 Teams aus zahlreichen verschiedenen Studiengängen und Universitäten haben 2015 am DataFest teilgenommen. Das FORUM der Uni Mannheim hat von der erfolgreichen Veranstaltung [berichtet.](https://www.uni-mannheim.de/forum/campus_leben/Ausgabe_1_2015/Ein%20Fest%20der%20Daten/)
+Dieses [Video](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/P3_DataFest_v2_small_mp4.mp4) der Uni Mannheim zeigt noch weitere Einblicke und Impressionen.
+
+Zum Abschluss hat eine hochrangig besetzte Jury die hier aufgelisteteten großartigen Ergebnisse der Teams bewertet:
+
+- SozÖkonomEtrics: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/01Soz%C3%96konomEtrics2.pptx)
+- UnsupervisedMiners: (anonymisiert, [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/02_Anonymized_Unsupervised%20Miners%20-%20Presentation.pptx))
+- Top of the Bell Curve: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/03top-ofbellcurve.pdf)
+- R-squared Mannheim: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/04R-Squared%20Mannheim.pdf)
+- YastiR: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/05YastiR.pdf)
+- Paranormal Distribution: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/06ParanormalDistribution.pdf)
+- R-Force 1: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/07R-Force1.pptx)
+- para-normal distribution: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/08para-normal%20distribution.pdf)
+- Data Cleaner:  [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/09Pr%C3%A4sentation_DataCleaner.pptx)
+- Sander-Storm: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/10SanderStorm.pptx) 
+- Datenprimaten (anonymisiert, [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/11_Anonymized_Datenprimaten.pptx)) 
+- ROC'nRoll: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/12ROCnRoll.pptx)
+- Team Psycho: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/13Team%20Psycho.pdf) 
+- CHIntas: [.ppt](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/14CHIntas_Pr%C3%A4sentation.ppt) 
+- R don't know: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/15Rdontknow.pdf) 
+- Hertie Data Nerds: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/16HertieDataNerds_DF2015DE.pptx)  
+- Lokomotive Kolmogorov: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/17Lokomotive%20Kolmogorov.pdf) 
+- Data-Diggers: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/18Data-Digger.pptx) 
+ 
+Code und weitere Präsentationen aus dem Jahr 2015 sind unter [www.datafest.de](http://www.datafest.de/) verfügbar.
+
+
+## Noch Fragen?
+
+Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich per Mail an ??
+
+
+## Veranstalter
+
+??
