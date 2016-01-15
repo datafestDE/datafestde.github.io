@@ -7,7 +7,7 @@ output:
 
 # Datafest Germany 2016
 
-![DataFest Icon](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/Datafest_01_150304_small.jpg)
+![DataFest Icon](files/Datafest_01_150304_small.jpg)
 
 ## Was ist DataFest Germany? 
 
@@ -26,7 +26,6 @@ Wir bringen das DataFest nach Deutschland. Unsere Partneruniversitäten in den U
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
 Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft. In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
-
 
 ## Wer kann teilnehmen?
 
