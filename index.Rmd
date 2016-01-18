@@ -23,6 +23,8 @@ Wir bringen das DataFest nach Deutschland. Unsere Partneruniversitäten in den U
 - [Princeton University](http://orfe.princeton.edu/datafest/)
 - [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
 
+Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) wurde 2015 von der Uni Mannheim ausgerichtet, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen.
+
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
 Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft. In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
@@ -44,18 +46,18 @@ per Mail an ??
 
 ## Muss ich die ganze Zeit da sein?
 
-Nein! Du kannst kommen und gehen wie du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
+Nein! Du kannst kommen und gehen wie Du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
 
 ## Was brauche ich, um mitzumachen?
 
-Alles, was du brauchst, ist ein Laptop und die Software, die du am liebsten nutzt. ?? _Zusätzlich stellen wir „Tableau“ zur Verfügung, eine Software mit der Großunternehmen ihre Daten analysieren._ ??
+Alles, was Du brauchst, ist ein Laptop und die Software, die Du am liebsten nutzt. 
 
-Und du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen du dich als
+Und Du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen Du dich als
 Team anmeldest. Ein Team besteht aus mindestens 2 und maximal 5 Personen.
 
 ## Ich habe kein Team, kann ich mich trotzdem anmelden?
 
-Wir haben auf Facebook eine [DataFest-Seite](https://www.facebook.com/groups/DataFestGermany/) eingerichtet. Dort kannst du dich mit anderen Interessenten zu einem Team zusammenschließen. 
+Wir haben auf Facebook eine [DataFest-Seite](https://www.facebook.com/groups/DataFestGermany/) eingerichtet. Dort kannst Du dich mit anderen Interessenten zu einem Team zusammenschließen. 
 
 ## Wie kann ich mich anmelden?
 
@@ -92,7 +94,7 @@ Das DataFest ist Wettbewerb und interdisziplinäreres Team Event zugleich, bei d
 
 ## Wo kann ich übernachten?
 
-Wenn du Isomatte und Schlafsack mitbringst, kannst du in einem großen Saal mit anderen DataFest-Teilnehmern übernachten.
+Wenn Du Isomatte und Schlafsack mitbringst, kannst Du in einem großen Saal mit anderen DataFest-Teilnehmern übernachten.
 
 Ansonsten  ??JUGENDHERBERGE?? 
 
@@ -100,40 +102,11 @@ Ansonsten  ??JUGENDHERBERGE??
 
 Wir sorgen für ausreichend gesunde und ungesunde Nahrungsmittel und Getränke rund um die Uhr.
 
-## Welche Ergebnisse gab es 2015?
-
-18 Teams aus zahlreichen verschiedenen Studiengängen und Universitäten haben 2015 am DataFest teilgenommen. Das FORUM der Uni Mannheim hat von der erfolgreichen Veranstaltung [berichtet.](https://www.uni-mannheim.de/forum/campus_leben/Ausgabe_1_2015/Ein%20Fest%20der%20Daten/)
-Dieses [Video](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/P3_DataFest_v2_small_mp4.mp4) der Uni Mannheim zeigt noch weitere Einblicke und Impressionen.
-
-Zum Abschluss hat eine hochrangig besetzte Jury die hier aufgelisteteten großartigen Ergebnisse der Teams bewertet:
-
-- SozÖkonomEtrics: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/01Soz%C3%96konomEtrics2.pptx)
-- UnsupervisedMiners: (anonymisiert, [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/02_Anonymized_Unsupervised%20Miners%20-%20Presentation.pptx))
-- Top of the Bell Curve: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/03top-ofbellcurve.pdf)
-- R-squared Mannheim: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/04R-Squared%20Mannheim.pdf)
-- YastiR: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/05YastiR.pdf)
-- Paranormal Distribution: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/06ParanormalDistribution.pdf)
-- R-Force 1: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/07R-Force1.pptx)
-- para-normal distribution: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/08para-normal%20distribution.pdf)
-- Data Cleaner:  [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/09Pr%C3%A4sentation_DataCleaner.pptx)
-- Sander-Storm: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/10SanderStorm.pptx) 
-- Datenprimaten (anonymisiert, [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/11_Anonymized_Datenprimaten.pptx)) 
-- ROC'nRoll: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/12ROCnRoll.pptx)
-- Team Psycho: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/13Team%20Psycho.pdf) 
-- CHIntas: [.ppt](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/14CHIntas_Pr%C3%A4sentation.ppt) 
-- R don't know: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/15Rdontknow.pdf) 
-- Hertie Data Nerds: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/16HertieDataNerds_DF2015DE.pptx)  
-- Lokomotive Kolmogorov: [.pdf](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/17Lokomotive%20Kolmogorov.pdf) 
-- Data-Diggers: [.pptx](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/18Data-Digger.pptx) 
- 
-Code und weitere Präsentationen aus dem Jahr 2015 sind unter [www.datafest.de](http://www.datafest.de/) verfügbar.
-
-
 ## Noch Fragen?
 
-Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich per Mail an ??
+Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich per Mail an [Verena Maier](mailto:Verena.Maier@stat.uni-muenchen.de)
 
 
 ## Veranstalter
 
-??
+![p3](files/p3_group.png) ![lmu](files/LMU_Muenchen_Logo.jpg) ![unima](files/UniMA.png)
