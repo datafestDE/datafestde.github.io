@@ -11,15 +11,11 @@ output:
 
 ## Was ist DataFest Germany? 
 
-Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team mit bis zu vier Freunden! 
-
-Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richtig gute Information! 
-
+Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team mit bis zu vier Freunden!  
+Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richtig gute Information!  
 Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
 
-Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen.
-
-Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht: 
+Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen. Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht:
 
 - [Duke University](https://stat.duke.edu/datafest)
 - [Princeton University](http://orfe.princeton.edu/datafest/)
@@ -27,11 +23,12 @@ Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top
 
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
-Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft. In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
+Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
+In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
 
 ## Wer kann teilnehmen?
 
-Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an. 
+Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an.
 
 ## Wann und wo findet das DataFest statt?
 
@@ -42,7 +39,7 @@ Ludwig-Maximilians-Universität München
 Hörsaal ??
 
 In begrenztem Umfang sind auf Anfrage Reisekostenzuschüsse möglich. Wende dich dafür vorab
-per Mail an ??
+per Mail an ??.
 
 ## Muss ich die ganze Zeit da sein?
 
@@ -50,10 +47,8 @@ Nein! Du kannst kommen und gehen wann Du möchtest. Allerdings ist es nicht erla
 
 ## Was brauche ich, um mitzumachen?
 
-Alles, was Du brauchst, ist ein Laptop und die Software, die Du am liebsten nutzt. 
-
-Und Du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen Du dich als
-Team anmeldest. Ein Team besteht aus mindestens 2 und maximal 5 Personen.
+Alles, was Du brauchst, ist ein Laptop und die Software, die Du am liebsten nutzt.  
+Und Du brauchst Freunde, Kommilitonen oder einfach Mitstreiter, mit denen Du dich als Team anmeldest. Ein Team besteht aus mindestens 2 und maximal 5 Personen.
 
 ## Ich habe kein Team, kann ich mich trotzdem anmelden?
 
@@ -61,7 +56,7 @@ Wir haben auf Facebook eine [DataFest-Seite](https://www.facebook.com/groups/Dat
 
 ## Wie kann ich mich anmelden?
 
-Du kannst dich bis ?? [hier](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform) anmelden. 
+Du kannst dich bis ?? [hier](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform) anmelden.  
 Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 20€ pro Team überwiesen werden.
 
 [Zum Anmeldeformular](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform)
@@ -70,8 +65,7 @@ Da die Plätze begrenzt sind, können nur die 10 Teams teilnehmen, die sich zuer
 
 ## Was kann ich gewinnen?
 
-Preise, Ruhm, Ehre oder ein gewichtetes Mittel davon! 
-
+Preise, Ruhm, Ehre oder ein gewichtetes Mittel davon!  
 Präsentiert die Ergebnisse in einer sehr kurzen Präsentation einer bunt gemischten Jury, die sich aus Experten aus verschiedenen Berufsfeldern zusammensetzt. Gewinnen kann man in den Kategorien
 
 - __Best Insight__
@@ -84,8 +78,7 @@ Das DataFest ist Wettbewerb und interdisziplinäres Team-Event zugleich, bei dem
 
 ## Wo kann ich übernachten?
 
-Wenn Du Isomatte und Schlafsack mitbringst, kannst Du in einem großen Saal mit anderen DataFest-Teilnehmern übernachten.
-
+Wenn Du Isomatte und Schlafsack mitbringst, kannst Du in einem großen Saal mit anderen DataFest-Teilnehmern übernachten.  
 Ansonsten  ??JUGENDHERBERGE?? 
 
 ## Wie werde ich satt?
