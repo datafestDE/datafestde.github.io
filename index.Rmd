@@ -17,13 +17,13 @@ Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richt
 
 Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
 
-Wir bringen das DataFest nach Deutschland. Unsere Partneruniversitäten in den USA haben bereits in den vergangenen Jahren Top-Erfahrungen damit gemacht: 
+Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen.
+
+Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht: 
 
 - [Duke University](https://stat.duke.edu/datafest)
 - [Princeton University](http://orfe.princeton.edu/datafest/)
 - [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
-
-Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) wurde 2015 von der Uni Mannheim ausgerichtet, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen.
 
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
@@ -31,11 +31,11 @@ Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim D
 
 ## Wer kann teilnehmen?
 
-Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an. Promotionsstudierende sind zur Teilnahme berechtigt, wenn im gleichen Team mindestens eine Person in einem Bachelor-,  Master- oder einem äquivalentem Studiengang studiert.
+Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an. 
 
 ## Wann und wo findet das DataFest statt?
 
-Freitag, 1. April, 19 Uhr (??)  bis Sonntag, 3. April, 14 Uhr (??)
+Freitag, 1. April, 17 Uhr  bis Sonntag, 3. April, 14 Uhr
 
 Ludwig-Maximilians-Universität München
 
@@ -46,7 +46,7 @@ per Mail an ??
 
 ## Muss ich die ganze Zeit da sein?
 
-Nein! Du kannst kommen und gehen wie Du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
+Nein! Du kannst kommen und gehen wann Du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
 
 ## Was brauche ich, um mitzumachen?
 
@@ -66,16 +66,6 @@ Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 20€ pro Te
 
 [Zum Anmeldeformular](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform)
 
-Kontoverbindung zur Überweisung der Teilnahmegebühr:
-
-Kontoinhaber: ??  
-Bank: ??  
-IBAN: ??  
-BIC: ??  
-Betreff: ?? "Euer Gruppenname"
-
-__Wichtig__: Ohne die korrekte ESP und FOND-Angabe lässt sich die Zahlung nicht bearbeiten!
-
 Da die Plätze begrenzt sind, können nur die 10 Teams teilnehmen, die sich zuerst anmelden. 
 
 ## Was kann ich gewinnen?
@@ -90,7 +80,7 @@ Präsentiert die Ergebnisse in einer sehr kurzen Präsentation einer bunt gemisc
  
 ## Was sollte ich sonst noch über DataFest wissen?
 
-Das DataFest ist Wettbewerb und interdisziplinäreres Team Event zugleich, bei dem ihr die einzigartige Möglichkeit habt, große Datenmengen zu bearbeiten und nach euren Ideen auszuwerten. Außerdem könnt ihr ganz ungezwungen mit führenden Köpfen der Statistik sowie Unternehmen in Kontakt treten.
+Das DataFest ist Wettbewerb und interdisziplinäres Team-Event zugleich, bei dem ihr die einzigartige Möglichkeit habt, große Datenmengen zu bearbeiten und nach euren Ideen auszuwerten. Außerdem könnt ihr ganz ungezwungen mit führenden Köpfen der Statistik sowie Unternehmen in Kontakt treten.
 
 ## Wo kann ich übernachten?
 
