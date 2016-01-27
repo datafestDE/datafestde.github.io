@@ -5,7 +5,7 @@ output:
     self_contained: true
 ---
 
-# Datafest Germany 2016
+# DataFest Germany 2016
 
 ![DataFest Icon](files/Datafest_01_150304_small.jpg)
 
@@ -15,7 +15,9 @@ Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team 
 Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richtig gute Information!  
 Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
 
-Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen. Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht:
+Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen. Organisiert wird es in diesem Jahr ebenfalls wieder vom einem Konsortium aus dem [Lehrstuhl für Statistik und sozialwissenschaftliche Methodenlehre der Universität Mannheim](http://sswml.uni-mannheim.de/), dem [Institut für Statistik der LMU München](http://www.stat.uni-muenchen.de/), der Aachener Consulting Firma [P3 Group](http://www.p3-group.com) und der American Statistical Association ([ASA](http://www.amstat.org/)).
+
+Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht:
 
 - [Duke University](https://stat.duke.edu/datafest)
 - [Princeton University](http://orfe.princeton.edu/datafest/)
@@ -86,7 +88,33 @@ Wir sorgen für ausreichend gesunde und ungesunde Nahrungsmittel und Getränke r
 
 Dann poste bitte in der [Datafest-Facebook-Gruppe](https://www.facebook.com/groups/DataFestGermany/) oder wende dich per Mail an [Verena Maier](mailto:Verena.Maier@stat.uni-muenchen.de)
 
-
 ## Veranstalter
 
-![p3](files/p3_group.png) ![lmu](files/LMU_Muenchen_Logo.jpg) ![unima](files/UniMA.png)
+![lmu](files/LMU_Muenchen_Logo.jpg)
+
+![p3](files/p3_group.png)  ![unima](files/UniMA.png)
+
+![asa](files/ASA_datafest.png)
+
+### Impressum
+
+**Anschrift:**  
+Institut für Statistik  
+Ludwigstraße 33  
+D-80539 München  
+
+Telefon: +49 (0)89 / 2180-3195 (Geschäftsstelle)  
+Telefax: +49 (0)89 / 2180-5041 (Geschäftsstelle)  
+
+**Verantwortlich für den Inhalt:**  
+Fabian Scheipl
+
+**Zuständige Aufsichtsbehörde:**  
+Bayerisches Staatsministerium für Wissenschaft, Forschung und Kunst  
+80327 München  
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 811205325
+
+**Haftungsausschluss:**  
+Alle Angaben auf diesen Seiten wurden nach bestem Wissen erstellt, Fehler können jedoch nicht mit letzter Sicherheit ausgeschlossen werden. Rechtlich verbindlich sind ausschließlich die Festlegungen in den einschlägigen Rechtsgrundlagen (Gesetze, Verordnungen, Satzungen).
+
+Diese Seiten enthalten Links zu externen Angeboten. Trotz sorgfältiger Kontrolle wird keine Haftung für diese übernommen. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
