@@ -21,7 +21,7 @@ Essen, hacken, Daten checken! Bezwinge einen wirklich großen Datensatz im Team 
 Kommt vom 1. bis 3. April nach München und macht aus richtig vielen Daten richtig gute Information!  
 Präsentiert eure Ergebnisse, überzeugt die Jury und beeindruckt nebenbei potentielle Arbeitgeber.
 
-Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen. Organisiert wird es in diesem Jahr ebenfalls wieder vom einem Konsortium aus dem [Lehrstuhl für Statistik und sozialwissenschaftliche Methodenlehre der Universität Mannheim](http://sswml.uni-mannheim.de/), dem [Institut für Statistik der LMU München](http://www.stat.uni-muenchen.de/), der Aachener Consulting Firma [P3 Group](http://www.p3-group.com) und der American Statistical Association ([ASA](http://www.amstat.org/)).
+Das erste [DataFest Germany](https://gitlab.com/datafest15de/orga/blob/master/README.md) an der Uni Mannheim war im vergangenen Jahr ein großer Erfolg, die Ergebnisse kann man sich [hier](http://sswml.uni-mannheim.de/Teaching/DataFest%20Germany/) ansehen. Organisiert wird es in diesem Jahr ebenfalls wieder vom einem Konsortium aus dem [Lehrstuhl für Statistik und sozialwissenschaftliche Methodenlehre der Universität Mannheim](http://sswml.uni-mannheim.de/), dem [Institut für Statistik der LMU München](http://www.stat.uni-muenchen.de/), der [P3 Group](http://www.p3-group.com) und der American Statistical Association ([ASA](http://www.amstat.org/)).
 
 Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top-Erfahrungen damit gemacht:
 
@@ -36,16 +36,22 @@ In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Departme
 
 ## Wer kann teilnehmen?
 
-Studierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an.
+Bachelor- und Masterstudierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit bis zu 5 Personen an.
 
 ## Wann und wo findet das DataFest statt?
 
 Freitag, 1. April, 17 Uhr  bis Sonntag, 3. April, 14 Uhr
 
-Ludwig-Maximilians-Universität München (Hauptgebäude am Geschwister-Scholl-Platz)  
+Ludwig-Maximilians-Universität München  
+Hauptgebäude am Geschwister-Scholl-Platz  
+
 Begrüßung: Raum E004  
 Gruppentreffen:  Raum A120  
 Catering: Raum F107
+
+U-Bahn-Station: "Universität"  
+[Karte [OSM]](http://www.openstreetmap.org/?mlat=48.15093&mlon=11.57984#map=17/48.15093/11.57984&layers=Q)
+
 
 ## Muss ich die ganze Zeit da sein?
 
