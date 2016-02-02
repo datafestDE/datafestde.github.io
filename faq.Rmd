@@ -20,6 +20,10 @@ small {
 Bachelor- und Masterstudierende aller Fachrichtungen, insbesondere der Sozialwissenschaften, Statistik, Informatik und Wirtschaftswissenschaften. Ihr meldet euch als Team mit 2-5 Personen an.
 Da die Aufgabe komplex ist empfehlen wir *mindestens* zu dritt anzutreten.
 
+Wenn Du im Moment promovierst oder Deinen Doktor schon in der Tasche hast kannst Du leider nicht direkt als Mitglied eines Teams teilnehmen damit das Skill-Level der Teams nicht zu unterschiedlich wird.
+Wir würden uns aber sehr freuen wenn Du Dich trotzdem aktiv am DataFest beteiligen willst: Melde Dich [hier](https://docs.google.com/forms/d/1Tjf1SnE2yoNtZb12bJeKORQe0fiY5Qi67w0MA-igGag/viewform) an um als Unterstützer_in den Studi-Teams mit Rat & Tat zur Seite zu stehen oder um außer Konkurrenz am Wettbewerb teilzunehmen. 
+
+
 ## Muss ich die ganze Zeit da sein?
 
 Nein! Du kannst kommen und gehen wann Du möchtest. Allerdings ist es nicht erlaubt außerhalb des Veranstaltungsraums am Projekt zu arbeiten. Mindestens zwei Teammitglieder müssen zu Veranstaltungsbeginn anwesend sein.
