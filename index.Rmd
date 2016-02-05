@@ -57,7 +57,7 @@ Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Te
 
 Bitte lies Dir zuerst auch die [FAQ](faq.html) durch.
 
-Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätze sehr schnell füllen werden Teams mit mehr Mitgliedern bevorzugt behandelt um möglichst vielen Leuten die Chance zu geben am DataFest teilzunehmen.
+Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätze sehr schnell füllen werden Teams mit mehr Mitgliedern bevorzugt behandelt um möglichst vielen Leuten die Chance zu geben am DataFest teilzunehmen. Bitte rechnet mit ein paar Tagen Verzögerung zwischen Eurer Anmeldung und der Zusendung der Bankdaten für die Überweisung.
 
 ## NEWS
 
@@ -101,3 +101,4 @@ Alle Angaben auf diesen Seiten wurden nach bestem Wissen erstellt, Fehler könne
 Diese Seiten enthalten Links zu externen Angeboten. Trotz sorgfältiger Kontrolle wird keine Haftung für diese übernommen. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 </small>
+
