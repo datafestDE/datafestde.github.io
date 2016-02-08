@@ -68,10 +68,14 @@ Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätz
 ... werden [hier](faq.html) beantwortet.  
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
 
+## Sponsoren
+
+[![Alexander Thamm](files/logo_alexanderthamm.jpg)](http://www.alexanderthamm.com/)
+
 ## Veranstalter
 
 ![lmu](files/LMU_Muenchen_Logo.jpg)  
-![p3](files/p3_group.png)  
+[![P3 Group](files/p3_group.png)](http://www.p3-group.com/de)  
 ![unima](files/UniMA.png)  
 ![asa](files/ASA_datafest.jpg)
 
