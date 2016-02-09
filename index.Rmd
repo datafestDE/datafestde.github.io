@@ -70,14 +70,17 @@ Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit u
 
 ## Sponsoren
 
-[![Alexander Thamm](files/logo_alexanderthamm.jpg)](http://www.alexanderthamm.com/)
+[<img src="files/cliqz.png" alt="Cliqz" style="width: 600px;"/>](http://www.cliqz.com)  
+
+[<img src="files/logo_alexanderthamm.jpg" alt="Alexander Thamm" style="width: 300px;"/>](http://www.alexanderthamm.com/)
 
 ## Veranstalter
 
-![lmu](files/LMU_Muenchen_Logo.jpg)  
-[![P3 Group](files/p3_group.png)](http://www.p3-group.com/de)  
-![unima](files/UniMA.png)  
-![asa](files/ASA_datafest.jpg)
+[<img src="files/lmu.png" alt="LMU München" style="width: 300px;"/>](http://www.stat.uni-muenchen.de)
+[<img src="files/p3_group.png" alt="P3 Group" style="width: 300px;"/>](http://www.p3-group.com/de)  
+<img src="files/UniMA.jpg" alt="Uni Mannheim" style="width: 300px;"/>
+<img src="files/ASA_datafest.jpg" alt="ASA DataFest" style="width: 300px;"/>
+
 
 <small>
 
