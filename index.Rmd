@@ -9,11 +9,21 @@ output:
 small {
   font-size: 7px
 }
+img { 
+  max-width:100%; 
+  height: auto; 
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
+
+
+<center>
 # DataFest Germany 2016
 
 <img src="files/Datafest_01_150304_small.jpg" style="width: 300px;"/>
+</center>
 
 ## Was ist DataFest Germany? 
 
@@ -70,20 +80,25 @@ Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit u
 
 ## Sponsoren
 
-[<img src="files/cliqz.png" alt="Cliqz" style="width: 600px;"/>](http://www.cliqz.com)  
-[<img src="files/sie_logo_petrol_rgb.png" alt="Siemens" style="width: 600px;"/>](http://www.siemens.de)  
-[<img src="files/AEV_RGB_50_Claim-left_weboptimiert.jpg" alt="Audi EV" style="width: 600px;"/>](http://www.audi-electronics-venture.de/)  
+<center>
+[<img src="files/cliqz.png" alt="Cliqz"  style="width: 400px;"/>](http://www.cliqz.com)  
+[<img src="files/sie_logo_petrol_rgb.png" alt="Siemens"  style="width: 400px;"/>](http://www.siemens.de)
+[<img src="files/AEV_RGB_50_Claim-left_weboptimiert.jpg" alt="Audi EV" style="width: 800px;"/>](http://www.audi-electronics-venture.de/)
 
-[<img src="files/GermanEntrepreneurship_cropped.jpg" alt="German Entrepreneurship" style="width: 300px;"/>](http://www.german-entrepreneurship.de)
-[<img src="files/logo_alexanderthamm.jpg" alt="Alexander Thamm" style="width: 300px;"/>](http://www.alexanderthamm.com)
+[<img src="files/GermanEntrepreneurship_cropped.jpg" alt="German Entrepreneurship"  style="width: 300px;"/>](http://www.german-entrepreneurship.de)
+[<img src="files/logo_alexanderthamm.jpg" alt="Alexander Thamm"  style="width: 300px;"/>](http://www.alexanderthamm.com)  
+[<img src="files/tableau_cmyk.jpg" alt="Tableau"  style="width: 300px;"/>](http://www.tableau.com/)
+[<img src="files/allianz_logo.jpg"  alt="Allianz" style="width: 300px;"/>](http://www.allianz.de/)
+</center>
 
 ## Veranstalter
 
-[<img src="files/lmu.png" alt="LMU München" style="width: 150px;"/>](http://www.stat.uni-muenchen.de) 
-<img src="files/UniMA.jpg" alt="Uni Mannheim" style="width: 200px;"/>
-[<img src="files/p3_group.png" alt="P3 Group" style="width: 200px;"/>](http://www.p3-group.com/de)
+<center>
+[<img src="files/lmu.png" alt="LMU München"  style="width: 150px;"/>](http://www.stat.uni-muenchen.de) 
+<img src="files/UniMA.jpg" alt="Uni Mannheim"  style="width: 200px;"/>
+[<img src="files/p3_group.png" alt="P3 Group"  style="width: 200px;"/>](http://www.p3-group.com/de)
 <img src="files/ASA_datafest.jpg" alt="ASA DataFest" style="width: 400px;"/>
-
+</center>
 
 <small>
 
