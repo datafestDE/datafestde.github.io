@@ -86,8 +86,8 @@ Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit u
 ## Sponsoren
 
 <center>
-[<img src="files/cliqz.png" alt="Cliqz"  style="width: 400px;"/>](http://www.cliqz.com)  
-[<img src="files/sie_logo_petrol_rgb.png" alt="Siemens"  style="width: 500px;"/>](http://www.siemens.de)
+[<img src="files/cliqz.png" alt="Cliqz"  style="width: 300px;"/>](http://www.cliqz.com)  
+[<img src="files/sie_logo_petrol_rgb.png" alt="Siemens"  style="width: 350px;"/>](http://www.siemens.de)
 [<img src="files/AEV_RGB_50_Claim-left_weboptimiert.jpg" alt="Audi EV" style="width: 800px;"/>](http://www.audi-electronics-venture.de/)
 [<img src="files/hubertburdamedia.jpeg" alt="Burda" style="width: 700px;"/>](http://www.hubert-burda-media.com/)
 
