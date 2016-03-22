@@ -99,6 +99,7 @@ Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit u
 [<img src="files/allianz_logo.jpg"  alt="Allianz" style="width: 300px;"/>](http://www.allianz.de/)  
 [<img src="files/metronomia.jpg"  alt="Metronomia" style="width: 300px;"/>](http://www.metronomia.net/)
  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [<img src="files/Logo_MunichRe.jpg"  alt="MunichRe" style="width: 150px;"/>](http://www.munichre.com/)
+[<img src="files/DataCamp.png" alt="DataCamp"  style="height: 150px;"/>](http://www.datacamp.com)
 </center>
 
 ## Veranstalter
