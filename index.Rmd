@@ -1,8 +1,8 @@
 ---
 output:
-  html_document:
-    theme: readable
+  rmdformats::html_clean:
     self_contained: true
+    lightbox: true
 ---
 
 <style type="text/css">
@@ -39,24 +39,66 @@ Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top
 - [Princeton University](http://orfe.princeton.edu/datafest/)
 - [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
 
-## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
-
-Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
-In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
-
 ## Wann und wo findet das DataFest statt?
 
 Freitag, 1. April, 17 Uhr  bis Sonntag, 3. April, 14 Uhr
 
 Ludwig-Maximilians-Universität München  
 Hauptgebäude am Geschwister-Scholl-Platz  
-
-Begrüßung: Raum E004  
-Gruppentreffen:  Raum A120  
-Catering: Raum F107
-
 U-Bahn-Station: "Universität"  
 [Karte [OSM]](http://www.openstreetmap.org/?mlat=48.15093&mlon=11.57984#map=17/48.15093/11.57984&layers=Q)
+
+![Gebäudeplan](files/Senatssaal_v01_small.png)  
+
+### Ablaufplan:
+
+**Freitag:**
+
+Zeit         |  Was & Wo
+-------------|-----------------------------------------
+18:00 - 19:00| Anmeldung (Senatssaal E106)
+19:00 - 20:00| *Meet & greet the data* (E004)
+20:00 - 21:00| Dinner (Senatssaal E106)
+Nachts       | An die Arbeit! (A120 , F107) 
+
+Berater sind bis Mitternacht vor Ort; die Teams arbeiten so lange sie möchten/können bzw. bis mindestens eine*r weint.
+
+**Samstag:**
+
+Zeit          |  Was & Wo
+--------------|-----------------------------------------
+09:00 - 11:00 | Frühstück (Senatssaal E106) 
+13:00 - 14:30 | Lunch (Senatssaal E106)
+16:00 - 18:00 | Career Fair (Senatssaal E106 / Rektorenzimmer)
+18:30 - 20:00 | Dinner (Senatssaal E106)
+Nachts        | An die Arbeit! (A120 , F107) 
+
+Berater sind bis Mitternacht vor Ort; die Teams arbeiten so lange sie möchten/können bzw. bis mindestens eine*r weint.
+
+**Sonntag:**
+
+Zeit          |  Was & Wo
+--------------|-----------------------------------------
+09:00 - 11:30 | Frühstück (Senatssaal E106)
+11:30  | Ende der Bearbeitung & Abgabe der Abschlusspräsentationen 
+12:00 - 14:15| Präsentationen  (E004)
+14:15 - 14:30| Jury berät sich / Gruppenfoto (E004)
+14:30 - 15:00| Preisverleihung  (E004)
+
+**Schedule in english: [[pdf]](files/public_schedule_v01.pdf)**
+
+## NEWS
+
+**22.03.**: Ablaufplan ist online [[pdf]](files/public_schedule_v01.pdf), Gebäudeplan auch [[pdf]](files/Senatssal_v01.pdf).
+
+**22.03.**: Detaillierte Infos für die Jury, Berater und externe Helfer gibt es [hier [pdf]](files/Guidelines_Judges_Visitors_v01.pdf).
+
+**22.03.**: Guideline für Teilnehmer ist online [[pdf]](files/Guidelines_Students_v01.pdf).
+
+## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
+
+Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
+In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
 
 ## Wie kann ich mich anmelden?
 
@@ -73,15 +115,16 @@ Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätz
 -->
 Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen mehr möglich. 
 
-## NEWS
-
-**25.02.**: Die Anmeldung ist beendet, 20 Teams werden antreten. Wir freuen uns auf Euch und ein spannendes Wochenende im April!
-
-
 ## Häufige Fragen
 
 ... werden [hier](faq.html) beantwortet.  
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
+
+Detaillierte Infos für die Jury, Berater und externe Helfer gibt es [hier [pdf]](files/Guidelines_Judges_Visitors_v01.pdf).
+
+Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/Guidelines_Students_v01.pdf).
+
+
 
 ## Sponsoren
 
