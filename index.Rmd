@@ -50,7 +50,7 @@ U-Bahn-Station: "Universität"
 
 ![Gebäudeplan](files/Senatssaal_v01_small.png)  
 
-### Ablaufplan:
+### Ablauf
 
 **Freitag:**
 
@@ -59,7 +59,7 @@ Zeit         |  Was & Wo
 18:00 - 19:00| Anmeldung (Senatssaal E106)
 19:00 - 20:00| *Meet & greet the data* (E004)
 20:00 - 21:00| Dinner (Senatssaal E106)
-Nachts       | An die Arbeit! (A120 , F107) 
+Nachts       | An die Arbeit! (A120 , F107, Teamräume (s.u.)) 
 
 Berater sind bis Mitternacht vor Ort; die Teams arbeiten so lange sie möchten/können bzw. bis mindestens eine*r weint.
 
@@ -71,7 +71,7 @@ Zeit          |  Was & Wo
 13:00 - 14:30 | Lunch (Senatssaal E106)
 16:00 - 18:00 | Career Fair (Senatssaal E106 / Rektorenzimmer)
 18:30 - 20:00 | Dinner (Senatssaal E106)
-Nachts        | An die Arbeit! (A120 , F107) 
+Nachts        | An die Arbeit! (A120 , F107, Teamräume (s.u.)) 
 
 Berater sind bis Mitternacht vor Ort; die Teams arbeiten so lange sie möchten/können bzw. bis mindestens eine*r weint.
 
@@ -87,7 +87,29 @@ Zeit          |  Was & Wo
 
 **Schedule in english: [[pdf]](files/public_schedule_v01.pdf)**
 
+### Raumplan
+
+Je zwei bis drei Teams teilen sich einen Raum in dem in Ruhe gearbeitet werden kann:
+
+Raum  |  Teams
+------|-----------
+C 005 | DatenKnechte, Mannheimer Psychologen
+C 009 | DataAnimals, R-Furcht
+C 016 | R-squared Mannheim, DataRtists
+C 022 | Heavy Tails, The final Estimation
+B 011  | SozioLogits,DeepForest, supeRuser
+A 020 | FAUdatalyze, R-Force
+DZ 001 | AngSt, Angst 2.0
+DZ 003 | Statisfaction, RatedR, TheScatterplotter
+DZ 005 |  Joint Modelling, Diverse Impact
+DZ 007 | Otto-Normalverteilung, expeRience
+
+Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
+
+
 ## NEWS
+
+**23.03.**: Raumaufteilung für die Teams ist online.
 
 **22.03.**: Ablaufplan ist online [[pdf]](files/public_schedule_v01.pdf), Gebäudeplan auch [[pdf]](files/Senatssal_v01.pdf).
 
