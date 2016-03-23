@@ -18,12 +18,11 @@ img {
 </style>
 
 
-
 <center>
-# DataFest Germany 2016
-
 <img src="files/Datafest_01_150304_small.jpg" style="width: 300px;"/>
 </center>
+
+# DataFest Germany 2016
 
 ## Was ist DataFest Germany? 
 
@@ -89,19 +88,19 @@ Zeit          |  Was & Wo
 
 ### Raumplan
 
-Je zwei bis drei Teams teilen sich einen Raum in dem in Ruhe gearbeitet werden kann:
+Je zwei bis drei Teams teilen sich einen Aufenthaltsraum in dem in Ruhe gearbeitet und ausgeruht werden kann:
 
-Raum  |  Teams
-------|-----------
-C 005 | DatenKnechte, Mannheimer Psychologen
-C 009 | DataAnimals, R-Furcht
-C 016 | R-squared Mannheim, DataRtists
-C 022 | Heavy Tails, The final Estimation
+Raum   | Teams
+-------|-----------
+C 005  | DatenKnechte, Mannheimer Psychologen
+C 009  | DataAnimals, R-Furcht
+C 016  | R-squared Mannheim, DataRtists
+C 022  | Heavy Tails, The final Estimation
 B 011  | SozioLogits,DeepForest, supeRuser
-A 020 | FAUdatalyze, R-Force
+A 020  | FAUdatalyze, R-Force
 DZ 001 | AngSt, Angst 2.0
 DZ 003 | Statisfaction, RatedR, TheScatterplotter
-DZ 005 |  Joint Modelling, Diverse Impact
+DZ 005 | Joint Modelling, Diverse Impact
 DZ 007 | Otto-Normalverteilung, expeRience
 
 Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.

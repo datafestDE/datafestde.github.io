@@ -1,8 +1,8 @@
 ---
 output:
-  html_document:
-    theme: readable
+  rmdformats::html_clean:
     self_contained: true
+    lightbox: true
 ---
 
 <style type="text/css">
@@ -11,7 +11,9 @@ small {
 }
 </style>
 
+<center>
 [![DataFest Icon](files/Datafest_01_150304_small.jpg)](index.html)
+</center>
 
 # Frequently Asked Questions
 
