@@ -49,7 +49,7 @@ U-Bahn-Station: "Universität"
 
 ![Gebäudeplan](files/Senatssaal_v01_small.png)  
 
-### Ablauf
+## Ablauf
 
 **Freitag:**
 
@@ -105,7 +105,7 @@ DZ 007 | Otto-Normalverteilung, expeRience
 
 Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 
-
+<!--
 ## NEWS
 
 **23.03.**: Raumaufteilung für die Teams ist online.
@@ -114,14 +114,17 @@ Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 
 **22.03.**: Guideline für Teilnehmer ist online [[pdf]](files/Guidelines_Students_v01.pdf).
 
+-->
+
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
 Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
 In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
 
+<!--
 ## Wie kann ich mich anmelden?
 
-<!-- 
+ 
 Du kannst Dich und Dein Team bis 1.3.2016 [hier](https://docs.google.com/forms/d/1vlDa3gnup3qiFaEhJ5xOWNZ7Apn43h_3oIcxU1iGm48/viewform) anmelden.  
 Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Teammitglied überwiesen werden.
 
@@ -131,8 +134,9 @@ Zur verbindlichen Anmeldung muss eine Teilnahmegebühr in Höhe von 10€ pro Te
 Bitte lies Dir zuerst auch die [FAQ](faq.html) durch.
 
 Die Plätze sind begrenzt, also am besten gleich anmelden! Falls sich die Plätze sehr schnell füllen werden Teams mit mehr Mitgliedern bevorzugt behandelt um möglichst vielen Leuten die Chance zu geben am DataFest teilzunehmen. Bitte rechnet mit ein paar Tagen Verzögerung zwischen Eurer Anmeldung und der Zusendung der Bankdaten für die Überweisung.
--->
+
 Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen mehr möglich. 
+-->
 
 ## Häufige Fragen
 
@@ -140,8 +144,6 @@ Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen m
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
 
 Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/Guidelines_Students_v01.pdf).
-
-
 
 ## Sponsoren
 
