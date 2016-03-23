@@ -96,7 +96,7 @@ C 005  | DatenKnechte, Mannheimer Psychologen
 C 009  | DataAnimals, R-Furcht
 C 016  | R-squared Mannheim, DataRtists
 C 022  | Heavy Tails, The final Estimation
-B 011  | SozioLogits,DeepForest, supeRuser
+B 011  | SozioLogits, DeepForest, supeRuser
 A 020  | FAUdatalyze, R-Force
 DZ 001 | AngSt, Angst 2.0
 DZ 003 | Statisfaction, RatedR, TheScatterplotter
