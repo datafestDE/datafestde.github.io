@@ -91,8 +91,6 @@ Zeit          |  Was & Wo
 
 **22.03.**: Ablaufplan ist online [[pdf]](files/public_schedule_v01.pdf), Gebäudeplan auch [[pdf]](files/Senatssal_v01.pdf).
 
-**22.03.**: Detaillierte Infos für die Jury, Berater und externe Helfer gibt es [hier [pdf]](files/Guidelines_Judges_Visitors_v01.pdf).
-
 **22.03.**: Guideline für Teilnehmer ist online [[pdf]](files/Guidelines_Students_v01.pdf).
 
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
@@ -119,8 +117,6 @@ Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen m
 
 ... werden [hier](faq.html) beantwortet.  
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
-
-Detaillierte Infos für die Jury, Berater und externe Helfer gibt es [hier [pdf]](files/Guidelines_Judges_Visitors_v01.pdf).
 
 Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/Guidelines_Students_v01.pdf).
 
