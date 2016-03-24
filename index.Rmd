@@ -49,6 +49,15 @@ U-Bahn-Station: "Universität"
 
 ![Gebäudeplan](files/Senatssaal_v01_small.png)  
 
+### Anreise per Auto: 
+
+Parkplätze rund ums Hauptgebäude der LMU sind rar -- wir empfehlen die Anreise mit den öffentlichen Verkehrmitteln. [[Münchner Verkehrsverbund]](http://www.mvv-muenchen.de/)
+
+### Anreise per Zug:
+
+Vom Müchner Hauptbahnhof mit U-Bahn U4 (Richtung Arabellapark) oder U5 (Richtung Neuperlach Süd) zum Odeonsplatz (2 Stationen). Dort in die U3 (Richtung Olympia-Einkaufszentrum) oder U6 (Richtung Garching-Forschungszentrum) umsteigen und an der Haltestelle Universität aussteigen (1 Station). In Fahrtrichtung den Bahnsteig entlanglaufen, der Nordausgang der Station ist direkt am Hauptgebäude der LMU.
+[[Münchner Verkehrsverbund]](http://www.mvv-muenchen.de/)
+
 ## Ablauf
 
 **Freitag:**
@@ -105,6 +114,15 @@ DZ 007 | Otto-Normalverteilung, expeRience
 
 Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 
+## Downloads
+
+Guideline for Participants [[pdf, in english]](files/StudentsInfosandGuidelines.pdf).
+
+Schedule [[pdf, in english]](files/public_schedule_v01.pdf)
+
+Gebäudeplan [[pdf]](files/Senatssal_v01.pdf).
+
+
 <!--
 ## NEWS
 
@@ -119,7 +137,8 @@ Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
 Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
-In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.
+In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.  
+Weitere Infos gibt's auch in unserer Guideline für Teilnehmer [[pdf]](files/StudentsInfosandGuidelines.pdf).
 
 <!--
 ## Wie kann ich mich anmelden?
@@ -143,7 +162,7 @@ Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen m
 ... werden [hier](faq.html) beantwortet.  
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
 
-Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/Guidelines_Students_v01.pdf).
+Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidelines.pdf).
 
 ## Sponsoren
 
