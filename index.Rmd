@@ -97,20 +97,21 @@ Zeit          |  Was & Wo
 
 ### Raumplan
 
-Je zwei bis drei Teams teilen sich einen Aufenthaltsraum in dem in Ruhe gearbeitet und ausgeruht werden kann:
 
-Raum   | Teams
--------|-----------
-C 005  | DatenKnechte, Mannheimer Psychologen
-C 009  | DataAnimals, R-Furcht
-C 016  | R-squared Mannheim, DataRtists
-C 022  | Heavy Tails, The final Estimation
-B 011  | SozioLogits, DeepForest, supeRuser
-A 020  | FAUdatalyze, R-Force
-DZ 001 | AngSt, Angst 2.0
-DZ 003 | Statisfaction, RatedR, TheScatterplotter
-DZ 005 | Joint Modelling, Diverse Impact
-DZ 007 | Otto-Normalverteilung, expeRience
+Für die beiden großen Arbeitsräume haben wir folgende Verteilung vorgesehen, und je zwei bis drei Teams teilen sich einen Aufenthaltsraum in dem in Ruhe gearbeitet und ausgeruht werden kann:
+
+Arbeitsraum |Aufenthaltsraum | Teams
+------------|----------------|-----------
+F 107       |C 005           | DatenKnechte, Mannheimer Psychologen
+F 107       |C 009           | DataAnimals, R-Furcht
+F 107       |C 016           | R-squared Mannheim, DataRtists
+F 107       |C 022           | Heavy Tails, The final Estimation
+F 107       |B 011           | SozioLogits, DeepForest, supeRuser
+A 120       |A 020           | FAUdatalyze, R-Force
+A 120       |DZ 001          | AngSt, Angst 2.0
+A 120       |DZ 003          | Statisfaction, RatedR, TheScatterplotter
+A 120       |DZ 005          | Joint Modelling, Diverse Impact
+A 120       |DZ 007          | Otto-Normalverteilung, expeRience
 
 Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 
