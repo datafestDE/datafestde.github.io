@@ -1,7 +1,7 @@
 ---
 output:
   rmdformats::html_clean:
-    self_contained: true
+    self_contained: false
     lightbox: true
 ---
 
@@ -171,6 +171,7 @@ Die Plätze waren begrenzt, leider sind dieses Jahr keine weiteren Anmeldungen m
 Oder nimm auf [Facebook](https://www.facebook.com/groups/DataFestGermany/) mit uns Kontak auf.
 
 Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidelines.pdf).
+
 
 ## Sponsoren
 
