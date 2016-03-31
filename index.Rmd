@@ -100,7 +100,6 @@ Zeit          |  Was & Wo
 
 ### Raumplan
 
-
 Für die beiden großen Arbeitsräume haben wir folgende Verteilung vorgesehen, und je zwei bis drei Teams teilen sich einen Aufenthaltsraum in dem in Ruhe gearbeitet und ausgeruht werden kann:
 
 Arbeitsraum |Aufenthaltsraum | Teams
@@ -116,10 +115,10 @@ A 120       |DZ 003          | Statisfaction, RatedR, TheScatterplotter
 A 120       |DZ 005          | Joint Modelling, Diverse Impact
 A 120       |DZ 007          | Otto-Normalverteilung, expeRience
 
-Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
-
 ![Wegweiser DZ-Räume](files/dz_raeume-1.png) 
 
+Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.  
+Für die sichere Aufbewahrung eurer Wertsachen könnt ihr die Schließfächer direkt unter Raum F107 nutzen (akzeptieren 1- oder 2-Euro-Münzen).
 
 ## Downloads
 
