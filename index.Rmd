@@ -201,9 +201,66 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 <img src="files/ASA_datafest.jpg" alt="ASA DataFest" style="width: 400px;"/>
 </center>
 
-<small>
+## Helfer
+<center>
+![Bernd - LMU (Organisator)](files/bischl.jpg)
+
+![Frauke - Uni Mannheim (Organisatorin)](files/kreuter.png)
+
+![Giuseppe - LMU](files/giuseppe.jpg) 
+
+![Janek - LMU](files/janek.jpg)
+
+![Andreas - LMU](files/andreas.jpg) 
+
+![Fabian - LMU](files/fabian.png)
+
+![Sarah - LMU](files/sarah.jpg)
+
+![Andreas - LMU](files/andreasb.bmp)
+
+![David - LMU](files/davidr.jpg)
+
+![Gunther - LMU](files/gunter.jpg)
+
+![Malte - Uni Mannheim](files/malte.jpeg)
+
+![Felix - Uni Mannheim](files/felix.jpg)
+
+![Arne - Uni Mannheim](files/arne.png)
+
+![Barbara - Uni Mannheim](files/Barbara.png)
+
+</center>
+
+### Weitere Helfer:
+Name  |Gruppe
+------|-------
+Moritz | LMU
+Micha | LMU
+Patrick | LMU
+Matthias | LMU
+Alexander E.| LMU 
+Johannes | Uni Mannheim
+Ralf | P3
+Felix | P3
+Markus |P3
+Raquel |P3
+Dominik |Cliqz
+Harry| Cliqz
+Konark|Cliqz
+Jonathan | IAB 
+Christian| LMU
+Maria |LMU
+Alexander G.| LMU
+Flo | LMU
+Stefan | LMU
+
+
 
 ### Impressum
+
+<small>
 
 **Anschrift:**  
 Institut für Statistik  
