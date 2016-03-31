@@ -47,7 +47,10 @@ Hauptgebäude am Geschwister-Scholl-Platz
 U-Bahn-Station: "Universität"  
 [Karte [OSM]](http://www.openstreetmap.org/?mlat=48.15093&mlon=11.57984#map=17/48.15093/11.57984&layers=Q)
 
-![Gebäudeplan](files/Senatssaal_v01_small.png)  
+![Gebäudeplan Erdgeschoss](files/E004_v01-1.png)
+
+![Gebäudeplan 1. Stock](files/Senatssaal_v01_small.png)  
+
 
 ### Anreise per Auto: 
 
@@ -115,14 +118,18 @@ A 120       |DZ 007          | Otto-Normalverteilung, expeRience
 
 Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
 
+![Wegweiser DZ-Räume](files/dz_raeume-1.png) 
+
+
 ## Downloads
 
 Guideline for Participants [[pdf, in english]](files/StudentsInfosandGuidelines.pdf).
 
 Schedule [[pdf, in english]](files/public_schedule_v01.pdf)
 
-Gebäudeplan [[pdf]](files/Senatssaal_v01.pdf).
-
+Gebäudeplan Erdgeschoss [[pdf]](files/E004_v01.pdf)  
+Gebäudeplan 1. OG [[pdf]](files/Senatssaal_v01.pdf)  
+Gebäudeplan DZ-Räume [[pdf]](files/dz_raeume.pdf)
 
 <!--
 ## NEWS
