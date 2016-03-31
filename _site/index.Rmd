@@ -93,7 +93,6 @@ Zeit          |  Was & Wo
 
 ### Raumplan
 
-
 Für die beiden großen Arbeitsräume haben wir folgende Verteilung vorgesehen, und je zwei bis drei Teams teilen sich einen Aufenthaltsraum in dem in Ruhe gearbeitet und ausgeruht werden kann:
 
 Arbeitsraum |Aufenthaltsraum | Teams
@@ -109,10 +108,10 @@ A 120       |DZ 003          | Statisfaction, RatedR, TheScatterplotter
 A 120       |DZ 005          | Joint Modelling, Diverse Impact
 A 120       |DZ 007          | Otto-Normalverteilung, expeRience
 
-Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.
-
 ![Wegweiser DZ-Räume](files/dz_raeume-1.png) 
 
+Alle Räume sind im Hauptgebäude der LMU am Geschwister-Scholl-Platz.  
+Für die sichere Aufbewahrung eurer Wertsachen könnt ihr die Schließfächer direkt unter Raum F107 nutzen (akzeptieren 1- oder 2-Euro-Münzen), die Haftung können wir aber nicht übernehmen.
 
 ## Downloads
 
@@ -206,7 +205,7 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ![Andreas - LMU](files/andreas.jpg) 
 
-![Fabian - LMU](files/fabian.png)
+![Fabian S. - LMU](files/fabian.png)
 
 ![Sarah - LMU](files/sarah.jpg)
 
@@ -224,6 +223,34 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ![Barbara - Uni Mannheim](files/Barbara.png)
 
+![Christoph B. - P3](files/Christoph.jpg)
+
+![Nils - P3](files/Nils_Drescher.PNG)
+
+![Markus - P3](files/Markus.jpg)
+
+![Sabine - P3](files/SabineFeyen.PNG)
+
+![Fabian H. - P3](files/FabianHillig.jpg)
+
+![Christof - P3](files/ChristofHorn.PNG)
+
+![Zeeshan - P3](files/Khan_Zeeshan.jpg)
+
+![Ralf - P3](files/Ralf.jpg)
+
+![Tobias - P3](files/TobiasLoehr.PNG)
+
+![Rachel - P3](files/Sabarich_Raquel.jpg)
+
+![Mladen - P3](files/Savic_Mladen.png)
+
+![Salman - P3](files/SalmanSwaid.PNG)
+
+![Michael - P3](files/Wennesheimer_Michael.jpg)
+
+![Peter - P3](files/Werth_Peter.jpg)
+
 </center>
 
 ### Weitere Helfer:
@@ -235,10 +262,6 @@ Patrick | LMU
 Matthias | LMU
 Alexander E.| LMU 
 Johannes | Uni Mannheim
-Ralf | P3
-Felix | P3
-Markus |P3
-Raquel |P3
 Dominik |Cliqz
 Harry| Cliqz
 Konark|Cliqz

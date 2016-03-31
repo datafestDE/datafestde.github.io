@@ -212,7 +212,7 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ![Andreas - LMU](files/andreas.jpg) 
 
-![Fabian - LMU](files/fabian.png)
+![Fabian S. - LMU](files/fabian.png)
 
 ![Sarah - LMU](files/sarah.jpg)
 
@@ -230,6 +230,34 @@ Eine Guideline für Teilnehmer gibt es [hier [pdf]](files/StudentsInfosandGuidel
 
 ![Barbara - Uni Mannheim](files/Barbara.png)
 
+![Christoph B. - P3](files/Christoph.jpg)
+
+![Nils - P3](files/Nils_Drescher.PNG)
+
+![Markus - P3](files/Markus.jpg)
+
+![Sabine - P3](files/SabineFeyen.PNG)
+
+![Fabian H. - P3](files/FabianHillig.jpg)
+
+![Christof - P3](files/ChristofHorn.PNG)
+
+![Zeeshan - P3](files/Khan_Zeeshan.jpg)
+
+![Ralf - P3](files/Ralf.jpg)
+
+![Tobias - P3](files/TobiasLoehr.PNG)
+
+![Rachel - P3](files/Sabarich_Raquel.jpg)
+
+![Mladen - P3](files/Savic_Mladen.png)
+
+![Salman - P3](files/SalmanSwaid.PNG)
+
+![Michael - P3](files/Wennesheimer_Michael.jpg)
+
+![Peter - P3](files/Werth_Peter.jpg)
+
 </center>
 
 ### Weitere Helfer:
@@ -241,10 +269,6 @@ Patrick | LMU
 Matthias | LMU
 Alexander E.| LMU 
 Johannes | Uni Mannheim
-Ralf | P3
-Felix | P3
-Markus |P3
-Raquel |P3
 Dominik |Cliqz
 Harry| Cliqz
 Konark|Cliqz
