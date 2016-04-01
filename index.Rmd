@@ -275,9 +275,6 @@ Patrick | LMU
 Matthias | LMU
 Alexander E.| LMU 
 Johannes | Uni Mannheim
-Dominik |Cliqz
-Harry| Cliqz
-Konark|Cliqz
 Jonathan | IAB 
 Christian| LMU
 Maria |LMU
