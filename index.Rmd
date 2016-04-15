@@ -58,7 +58,7 @@ Hauptgebäude am Geschwister-Scholl-Platz
 
 ## Galerie
 
-Mehr Impressionen vom Datafest 2016 gibt es [hier](files/gallery/index.html)
+Mehr Impressionen vom Datafest 2016 gibt es [hier](gallery.html)
 
 <!--
 U-Bahn-Station: "Universität"  
