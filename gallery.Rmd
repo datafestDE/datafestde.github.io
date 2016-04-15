@@ -1,0 +1,60 @@
+---
+output:
+  rmdformats::html_clean:
+    self_contained: false
+    lightbox: true
+---
+
+<style type="text/css">
+small {
+  font-size: 7px
+}
+img { 
+  max-width:100%; 
+  height: auto; 
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<center>
+<img src="files/Datafest_01_150304_small.jpg" style="width: 300px;"/>
+</center>
+
+# DataFest Germany 2016
+
+![Gruppenfoto - Dabei sein ist alles!](files/gallery/000-Gruppenfoto%20aller%20Teilnehmer.jpg)
+
+![Team expeRience - Sieger Best Insights](files/gallery/expeRience%20-%20Sieger%20Best%20Insights.jpg)
+
+![Team Mannheimer Psychologen - Sieger Best Visualization](files/gallery/Mannheimer Psychologen - Sieger Best Visualization.jpg)
+
+![Team R-squared Mannheim - Sieger Best Use Of Outside Data](files/gallery/R-squared Mannheim - Sieger Best Use Of Outside Data.jpg)
+
+![Registrierung](files/gallery/01-Registrierung-1.jpg)
+
+![Registrierung](files/gallery/02-Registrierung-2.jpg)
+
+![Die Hauptorganisatoren des DataFests 2016: Bernd Bischl und Frauke Kreuter](files/gallery/03-Frauke Kreuter und Bernd Bischl.jpg)
+
+![Die Studierenden verschaffen sich einen ersten Überblick über die Daten.](files/gallery/04-Erste Impressionen der Daten.jpg)
+
+![Die Studierenden verschaffen sich einen ersten Überblick über die Daten.](files/gallery/05-Erste Impressionen der Daten.jpg)
+
+![P3 unterstützt die Studierenden bei der Analyse](files/gallery/06-P3 unterstützt die Studierenden bei der Analyse.jpg)
+
+![Intensives Brainstorming](files/gallery/07-Intensives Brainstorming.jpg)
+
+![Auf der Career Fair werden Kontakte geknüpft](files/gallery/08-Auf der Career Fair werden Kontakte geknüpft.jpg)
+
+![Auf der Career Fair werden Kontakte geknüpft](files/gallery/09-Auf der Career Fair werden Kontakte geknüpft.jpg)
+
+![Career Fair](files/gallery/10- Career Fair.jpg)
+
+![Career Fair](files/gallery/11-Career Fair.jpg)
+
+![Career Fair](files/gallery/12-Career Fair.jpg)
+
+![Agenda](files/gallery/13-Agenda.jpg)
+
+![Die Jury machte es sich nicht leicht die Sieger zu ermitteln, da sich alle Gruppen ein enges Rennen lieferten.](files/gallery/14-Harte Entscheidung für die Jury.jpg)
