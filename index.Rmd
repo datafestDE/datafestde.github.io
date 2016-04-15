@@ -38,13 +38,31 @@ Auch unsere Partneruniversitäten in den USA haben in den vergangenen Jahren Top
 - [Princeton University](http://orfe.princeton.edu/datafest/)
 - [UCLA](http://datafest.stat.ucla.edu/groups/datafest/)
 
-## Wann und wo findet das DataFest statt?
+## Wann und wo fand das DataFest statt?
 
 Freitag, 1. April, 17 Uhr  bis Sonntag, 3. April, 14 Uhr
 
 Ludwig-Maximilians-Universität München  
 Hauptgebäude am Geschwister-Scholl-Platz  
+
+## Siegerehrung
+
+![Gruppenfoto - Dabei sein ist alles!](files/gallery/000-Gruppenfoto%20aller%20Teilnehmer.jpg)
+
+![Team expeRience - Sieger Best Insights](files/gallery/expeRience%20-%20Sieger%20Best%20Insights.jpg)
+
+![Team Mannheimer Psychologen - Sieger Best Visualization](files/gallery/Mannheimer Psychologen - Sieger Best Visualization.jpg)
+
+![Team R-squared Mannheim - Sieger Best Use Of Outside Data](files/gallery/R-squared Mannheim - Sieger Best Use Of Outside Data.jpg)
+
+
+## Galerie
+
+Mehr Impressionen vom Datafest 2016 gibt es [hier](files/gallery/index.html)
+
+<!--
 U-Bahn-Station: "Universität"  
+
 [Karte [OSM]](http://www.openstreetmap.org/?mlat=48.15093&mlon=11.57984#map=17/48.15093/11.57984&layers=Q)
 
 ![Gebäudeplan Erdgeschoss](files/E004_v01-1.png)
@@ -130,7 +148,7 @@ Gebäudeplan Erdgeschoss [[pdf]](files/E004_v01.pdf)
 Gebäudeplan 1. OG [[pdf]](files/Senatssaal_v01.pdf)  
 Gebäudeplan DZ-Räume [[pdf]](files/dz_raeume.pdf)
 
-<!--
+
 ## NEWS
 
 **23.03.**: Raumaufteilung für die Teams ist online.
@@ -139,14 +157,14 @@ Gebäudeplan DZ-Räume [[pdf]](files/dz_raeume.pdf)
 
 **22.03.**: Guideline für Teilnehmer ist online [[pdf]](files/Guidelines_Students_v01.pdf).
 
--->
+
 
 ## Was genau ist die Aufgabe und mit welchen Daten arbeite ich?
 
 Die bereitgestellten Daten sollen eine Überraschung sein und werden erst beim DataFest bekannt gegeben. Soviel sei aber verraten: Geplant ist ein riesiger Datensatz von einem unserer Partner aus der Wirtschaft.  
 In der Vergangenheit wurden beispielsweise Daten vom Los Angeles Police Department daraufhin ausgewertet, wie sich Kriminalität reduzieren lässt. Oder die Daten einer Dating-Website wurden daraufhin untersucht, nach welchen Merkmalen Leute sich ihre künftigen Dates aussuchen.  
 Weitere Infos gibt's auch in unserer Guideline für Teilnehmer [[pdf]](files/StudentsInfosandGuidelines.pdf).
-
+-->
 <!--
 ## Wie kann ich mich anmelden?
 
